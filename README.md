@@ -6,18 +6,21 @@ I'm Jacob, a student at Brigham Young University-Idaho interested in software en
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently learning Software Design and Software Engineering
+- My goals are to find an internship to improve through experience
+- Ask me about my projects and let me know concepts or topics I can study to improve
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: Python, HTML, and CSS 
+- Skills: Teamwork, Problem Solving, and Learning 
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/jacob-kertesz-3b7703269/) profile
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+Feel free to explore my repositories and don't hesitate to reach out. 
+[CipherApp](https://github.com/jacobkertesz/CipherApp)
+[Othello](https://github.com/jacobkertesz/Othello)
+[Simple Cipher](https://github.com/jacobkertesz/Simple-Cipher)
+[Data Analysis](https://github.com/jacobkertesz/Data-Analysis)
