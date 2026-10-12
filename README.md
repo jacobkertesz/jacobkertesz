@@ -20,7 +20,7 @@ I'm Jacob, a student at Brigham Young University-Idaho interested in software en
 - Here is my [LinkedIn](https://www.linkedin.com/in/jacob-kertesz-3b7703269/) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. 
+[Simple Cipher](https://github.com/jacobkertesz/Simple-Cipher)
 [CipherApp](https://github.com/jacobkertesz/CipherApp)
 [Othello](https://github.com/jacobkertesz/Othello)
-[Simple Cipher](https://github.com/jacobkertesz/Simple-Cipher)
 [Data Analysis](https://github.com/jacobkertesz/Data-Analysis)
